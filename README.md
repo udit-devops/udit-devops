@@ -2,7 +2,7 @@
 
 
 🎓 B.Tech | Computer Science Student<br>
-🚀 Currently learning Blockchain & Game Development<br>
+🚀 Currently learning Blockchain & Software Development<br>
 💡 Passionate about solving problems and creating immersive experiences<br>
 🎮 Building the future, one game at a time!<br>
 
