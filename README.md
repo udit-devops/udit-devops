@@ -1,7 +1,7 @@
 ## Hi I'M Udit 👋<br>
 
 
-![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=udit-devops&show_icons=true&theme=radical)<br>
+
 
 
 # 💻 Tech Stack:
