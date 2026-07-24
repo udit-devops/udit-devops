@@ -1,128 +1,79 @@
-<div align="center">
+<h1 align="center">Hey, I'm Udit 👋</h1>
+<h3 align="center">AI/LLM Engineer & Full-Stack Developer</h3>
 
-```
- █████╗ ██╗    ███████╗███╗   ██╗ ██████╗
-██╔══██╗██║    ██╔════╝████╗  ██║██╔════╝
-███████║██║    █████╗  ██╔██╗ ██║██║  ███╗
-██╔══██║██║    ██╔══╝  ██║╚██╗██║██║   ██║
-██║  ██║██║    ███████╗██║ ╚████║╚██████╔╝
-╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝
-```
+<p align="center">
+I build production applications end-to-end — Python/FastAPI backends, React/Next.js frontends, and LLM-powered features using LangChain and LangGraph.
+</p>
 
-### Hey, I'm Udit 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=540&lines=AI+Engineer+%F0%9F%A4%96;Fullstack+Developer+%F0%9F%8C%90;Building+Intelligent+Web+Apps+%E2%9C%A8;LLMs+%7C+APIs+%7C+Beautiful+UIs+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/udit-dakua-b10170247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dakuaudit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-```yaml
-name: Udit
-role: AI Engineer & Fullstack Developer
-focus:
-  - 🤖 Building AI-powered products with LLMs
-  - 🌐 Crafting full-stack web applications
-  - 🔗 Connecting intelligent backends to great UIs
-  - 📦 Shipping things that actually work
-stack:
-  ai:     [ OpenAI, LangChain, Hugging Face, RAG, Agents ]
-  front:  [ React, Next.js, TypeScript, Tailwind CSS ]
-  back:   [ Node.js, FastAPI, Python, REST, GraphQL ]
-  data:   [ PostgreSQL, MongoDB, Redis, Pinecone ]
-currently: "Building something cool 👀"
-```
+- 🔭 Currently building GenAI/RAG systems, agentic LLM workflows, and full-stack products
+- 🌱 Deepening my foundations in deep learning (PyTorch, TensorFlow)
+- 💼 Full-Stack Engineer @ Mendel Labs — production FastAPI/React apps, LLM integration
+- 🎯 Open to AI Engineer, LLM Engineer, and Full-Stack Engineer roles
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+**Generative AI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Data & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
+**[Insight Engine — AI Document Platform](https://github.com/udit-devops/insight-engine-backend)**
+RAG platform built with FastAPI, React/Vite, and LangChain. ChromaDB vector index for semantic document search. Containerized with Docker/Kubernetes, deployed on Azure.
+🔗 [Live Demo](https://insight-enginee-frontend.vercel.app/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udit-devops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-devops&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=udit-devops&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+**[Distributed Research Automation Platform](https://github.com/udit-devops/auto-research-agent-backend)**
+Agentic orchestration backend with 5 parallel reasoning workers and conditional routing, cutting pipeline time by 63%. Built with FastAPI, React, TypeScript, and LangGraph.
+🔗 [Live Demo](https://research-agent-frontend-one.vercel.app/)
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
 
-[![Udit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=udit-devops&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udit-devops&hide_border=true" width="100%"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤖 *"AI is the tool. Code is the craft. Shipping is the art."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=udit-devops&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="center"><i>Building things that ship — one commit at a time.</i></p>
