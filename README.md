@@ -16,7 +16,7 @@ I build production applications end-to-end — Python/FastAPI backends, React/Ne
 
 - 🔭 Currently building GenAI/RAG systems, agentic LLM workflows, and full-stack products
 - 🌱 Deepening my foundations in deep learning (PyTorch, TensorFlow)
-- 💼 Full-Stack Engineer @ Mendel Labs — production FastAPI/React apps, LLM integration
+
 - 🎯 Open to AI Engineer, LLM Engineer, and Full-Stack Engineer roles
 
 ---
