@@ -2,7 +2,7 @@
 <h3 align="center">AI/LLM Engineer & Full-Stack Developer</h3>
 
 <p align="center">
-I build production applications end-to-end — Python/FastAPI backends, React/Next.js frontends, and LLM-powered features using LangChain and LangGraph.
+I build production applications end-to-end Python/FastAPI backends, React/Next.js frontends, and LLM-powered features using LangChain and LangGraph.
 </p>
 
 <p align="center">
